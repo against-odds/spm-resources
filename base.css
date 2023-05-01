@@ -1,0 +1,5 @@
+.dock {
+    max-width: 50px;
+    max-height: 80vh;
+    background-color: rgb(127, 255, 148);
+}
