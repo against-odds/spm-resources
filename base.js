@@ -1,5 +1,5 @@
 var component = {
-    dock:`<div class="dock">cock</div>`
+    dock:`<div class="dock">component named dock :</div>`
 }
 
 function getComponent(string){
